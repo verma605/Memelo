@@ -1,0 +1,2 @@
+rootProject.name='Memelo'
+include ':app'
